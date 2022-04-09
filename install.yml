@@ -1,0 +1,6 @@
+
+   apt install curl
+
+   curl -O https://raw.githubusercontent.com/BuildAPKs/buildAPKs/master/setup.buildAPKs.bash
+
+   bash setup.buildAPKs.bash
